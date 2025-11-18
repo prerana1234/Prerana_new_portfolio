@@ -56,7 +56,7 @@ function getCurrentMonthYear() {
 
 // Function to update the stored experience
 function updateExperience() {
-  const storedData = JSON.parse(localStorage.getItem('experienceData')) || { experience: 4.3, lastUpdated: '' };
+  const storedData = JSON.parse(localStorage.getItem('experienceData')) || { experience: 3.8, lastUpdated: '' };
   const currentMonthYear = getCurrentMonthYear();
 
   if (storedData.lastUpdated !== currentMonthYear) {
