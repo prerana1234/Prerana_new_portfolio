@@ -133,7 +133,7 @@ nav.sticky .menu-btn{
   width: 100%;
   padding: 80px 6vw;              /* gives left space for text */
   box-sizing: border-box;
-  background-image: url("portfolio-images/professional.png");
+  background-image: url("portfolio-images/banner1.jpg");
   background-repeat: no-repeat;
   background-position: right center;   /* focus on right side (face) */
   background-size: auto 120%;          /* fit height, avoid cropping face */
